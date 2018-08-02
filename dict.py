@@ -9,3 +9,4 @@ song = {
     "song_name":"God's plan"
 }
 
+print_dict(song)
